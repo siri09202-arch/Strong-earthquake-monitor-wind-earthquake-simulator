@@ -1,1 +1,0 @@
-# Strong-earthquake-monitor-wind-earthquake-simulator
